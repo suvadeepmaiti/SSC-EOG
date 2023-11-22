@@ -69,11 +69,11 @@ TODO
 ## License and Citation 📰
 Please cite the following paper if you have used this code:
 ```
-@misc{sharma2023deep,
-      title={A Deep Dive into Sleep: Single-Channel EEG-Based Sleep Stage Classification with Model Interpretability}, 
-      author={Shivam Sharma and Suvadeep Maiti and S. Mythirayee and Srijithesh Rajendran and Bapi Raju},
+@misc{deep2023sharma,
+      title={ENHANCING HEALTHCARE WITH EOG: A NOVEL APPROACH TO SLEEP STAGE CLASSIFICATION}, 
+      author={Suvadeep Maiti and Shivam Sharma and S. Mythirayee and Srijithesh Rajendran and Bapi Raju},
       year={2023},
-      eprint={2309.07156},
+      eprint={2310.03757},
       archivePrefix={arXiv},
       primaryClass={eess.SP}
 }
