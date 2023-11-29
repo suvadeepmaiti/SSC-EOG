@@ -28,7 +28,7 @@ CLASSIFICATION***. 📝
 
 ## Highlights ✨
 
-- A supervised model trained on Electroencephalography (EEG) data beating the current SOTA models 💥.
+- A supervised model trained on Electrooculogram (EOG) data beating the current SOTA models 💥.
 - Complete pre-processing pipeline, augmentation, and training scripts are available for experimentation.
 - Pre-trained model weights are provided for reproducibility.
 
@@ -38,16 +38,16 @@ CLASSIFICATION***. 📝
 
 |          | Accuracy | κ | Macro F1-score |
 | -------- | ------------- | ------------- | ------------- |
-| Sleep-EDF-20| 87.5 | 0.82 | 82.5 |
-| Sleep-EDF-78 | 83.8 | 0.77 | 78.9 |
-| SHHS| 76.75 | 0.83 | 81.9 |
+| Sleep-EDF-20| 79.3 | 0.72 | 74.7 |
+| Sleep-EDF-78 | 73.6 | 0.68 | 70.6 |
+| SHHS| 79.0 | 0.71 | 69.3 |
 
 
 <!--t-SNE visualization using our method shows clear clusters and captures the sleep-staging progression observed clinically.-->
 
 <!--<img src="/images/tsne.jpg" width="750">-->
 
->1D-GradCAM visualization of raw EEG epochs along with sleep micro-structures shown in green boxes.
+>1D-GradCAM visualization of raw EOG epochs along with sleep micro-structures shown in green boxes.
 <img src="/images/gradcam.jpg" width="750">
 
 ## Getting started 🥷
