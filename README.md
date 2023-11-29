@@ -48,7 +48,7 @@ CLASSIFICATION***. 📝
 <!--<img src="/images/tsne.jpg" width="750">-->
 
 >1D-GradCAM visualization of raw EOG epochs along with sleep micro-structures shown in green boxes.
-<img src="/images/GradCAMREM.png" width="750">
+<img src="/images/gradCAMREM.png" width="750">
 
 ## Getting started 🥷
 #### Setting up the environment
