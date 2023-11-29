@@ -39,7 +39,7 @@ CLASSIFICATION***. 📝
 |          | Accuracy | κ | Macro F1-score |
 | -------- | ------------- | ------------- | ------------- |
 | Sleep-EDF-20| 79.3 | 0.72 | 74.7 |
-| Sleep-EDF-78 | 73.6 | 0.68 | 70.6 |
+| Sleep-EDF-153 | 73.6 | 0.68 | 70.6 |
 | SHHS| 79.0 | 0.71 | 69.3 |
 
 
@@ -49,6 +49,10 @@ CLASSIFICATION***. 📝
 
 >1D-GradCAM visualization of raw EOG epochs along with sleep micro-structures shown in green boxes.
 <img src="/images/gradCAMREM.png" width="750">
+
+>Confusion Matrics of Fold-0 on SleepEDF-20, SleepEDF-153 and SHHS datasets
+<img src="/images/confusion_matrix.jpg" width="550">
+
 
 ## Getting started 🥷
 #### Setting up the environment
