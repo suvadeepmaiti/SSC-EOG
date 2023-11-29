@@ -56,19 +56,19 @@ CLASSIFICATION***. 📝
 
 ## Getting started 🥷
 #### Setting up the environment
-TODO
+COMING SOON
 #### What each file does
-TODO
+COMING SOON
 #### Training the model
-TODO
+COMING SOON
 #### Testing the model
-TODO
+COMING SOON
 #### Logs and checkpoints
 - The logs are saved in `logs/` directory.
 - The model checkpoints are saved in `checkpoints/` directory.
 
 ## Getting the weights :weight_lifting:
-TODO
+COMING SOON
 
 ## License and Citation 📰
 Please cite the following paper if you have used this code:
