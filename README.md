@@ -51,7 +51,7 @@ CLASSIFICATION***. 📝
 <img src="/images/gradCAMREM.png" width="750">
 
 >Confusion Matrics of Fold-0 on SleepEDF-20, SleepEDF-153 and SHHS datasets
-<img src="/images/confusion_matrix.jpg" width="550">
+<img src="/images/confusion_matrix.jpg" width="750">
 
 
 ## Getting started 🥷
