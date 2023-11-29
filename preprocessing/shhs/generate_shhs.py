@@ -6,9 +6,9 @@
 
 """
 
-__author__ = "Likith Reddy, Vamsi Kumar"
+__author__ = "Suvadeep Maiti, Shivam Kumar Sharma"
 __version__ = "1.0.0"
-__email__ = "likith012@gmail.com, vamsi81523@gmail.com"
+__email__ = "suvadeep.maiti@research.iiit.ac.in"
 
 import numpy as np
 import torch
