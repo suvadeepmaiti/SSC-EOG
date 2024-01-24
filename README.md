@@ -4,7 +4,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/suvadeepmaiti/EEG_Sleep_Stage_classification)
 
 # ENHANCING HEALTHCARE WITH EOG: A NOVEL APPROACH TO SLEEP STAGE CLASSIFICATION
-This repository contains code, results, and dataset links for our arxiv paper titled ***ENHANCING HEALTHCARE WITH EOG: A NOVEL APPROACH TO SLEEP STAGE
+This repository contains code, results, and dataset links for our ICASSP 2024 paper titled ***ENHANCING HEALTHCARE WITH EOG: A NOVEL APPROACH TO SLEEP STAGE
 CLASSIFICATION***. 📝
 >**Authors:** <a name="myfootnote1"><sup>1</sup></a>Shivam Kumar Sharma, <a name="myfootnote1"><sup>1</sup></a>Suvadeep Maiti, Bapi Raju
 
